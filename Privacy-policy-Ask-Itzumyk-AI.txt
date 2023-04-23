@@ -145,5 +145,4 @@ Contact Us
 Don't hesitate to contact us if you have any questions.
 
  -Via Email:  itzumyk@gmail.com
- -Via this Link:  https://itzu-shop.herokuapp.com/contact
 
